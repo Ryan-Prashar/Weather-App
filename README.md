@@ -15,10 +15,10 @@ JavaScript (ES6): For fetching data from the API, updating the UI dynamically, a
 OpenWeather API: For retrieving real-time weather data.
 
 # How It Works
-City Input: The user enters a city name in the input field.
-Weather Data Fetching: Upon clicking the "Search" button or pressing "Enter", a request is sent to the OpenWeather API to retrieve the weather information for the specified city.
-Data Display: The app dynamically updates the page to display the weather details such as temperature, weather condition, humidity, wind speed, and the corresponding weather icon.
-Error Handling: If the city is not found, a "City Not Found" message is displayed.
+1. City Input: The user enters a city name in the input field.
+2. Weather Data Fetching: Upon clicking the "Search" button or pressing "Enter", a request is sent to the OpenWeather API to retrieve the weather information for the specified city.
+3. Data Display: The app dynamically updates the page to display the weather details such as temperature, weather condition, humidity, wind speed, and the corresponding weather icon.
+4. Error Handling: If the city is not found, a "City Not Found" message is displayed.
 
 # API Reference
 OpenWeather API: This app uses the Current Weather Data endpoint to retrieve the weather data. More information can be found at the official OpenWeather API documentation.
