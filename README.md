@@ -1,5 +1,7 @@
 # Description
-This is a simple Weather Application that allows users to search for real-time weather information of any city worldwide. The app is built using HTML, CSS, and JavaScript, and it fetches weather data from the OpenWeather API. The app provides details such as temperature, weather condition, humidity, wind speed, and an appropriate weather icon based on the weather conditions.
+This Weather App allows users to retrieve real-time weather information for any city across the globe. It leverages the OpenWeather API to provide accurate and up-to-date weather data such as temperature, weather conditions, humidity levels, and wind speed. The app offers a clean, responsive user interface where users can quickly input a city name and get instant weather details displayed with relevant icons.
+
+This project is a beginner-friendly implementation built using HTML, CSS, and JavaScript, showcasing how to integrate a third-party API (OpenWeather) to fetch and display weather data.
 
 # Features:
 1. City Search: Users can enter the name of any city to get up-to-date weather data.
