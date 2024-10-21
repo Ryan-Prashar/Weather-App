@@ -9,10 +9,10 @@ This is a simple Weather Application that allows users to search for real-time w
 5. Error Handling: If the city name is incorrect or the data cannot be found, the app displays a "not found" message.
 
 # Technologies Used:
-HTML5: For structuring the app layout.
-CSS3: For styling the app and making it responsive.
-JavaScript (ES6): For fetching data from the API, updating the UI dynamically, and handling user input.
-OpenWeather API: For retrieving real-time weather data.
+1. HTML5: For structuring the app layout.
+2. CSS3: For styling the app and making it responsive.
+3. JavaScript (ES6): For fetching data from the API, updating the UI dynamically, and handling user input.
+4. OpenWeather API: For retrieving real-time weather data.
 
 # How It Works
 1. City Input: The user enters a city name in the input field.
